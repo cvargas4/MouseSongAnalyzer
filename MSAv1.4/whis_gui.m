@@ -2,7 +2,7 @@ function varargout = whis_gui(varargin)
 
 %Copyright 2019 Jarvis Lab 
 %Contact  ejarvis@rockefeller.edu or cvargas@rockefeller.edu
-%v1.4 is a simple update to MSAv1.3 by 2013 LabDaemons <info@labdaemons.com>
+%v1.4 is a simple update to MSAv1.3 (2013) by LabDaemons <info@labdaemons.com>
 
 %This file is part of Mouse Song Analyzer.
 
