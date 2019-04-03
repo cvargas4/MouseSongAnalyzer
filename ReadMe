@@ -10,6 +10,8 @@ WARNING: make sure you move or rename this folder before processing other files 
 In the GUI, the file browser will now be in the newly created 'sonograms' folder.
 
 Select the .sng files you would like processed and click "Process Sonograms"
+-you mostly likely will need to select multiple .sng files at once. I've not been able to figure out why this is the case, but it runs into errors when only one file is selected and run.
+
 Sonograms will now be processed and a browsable figure will pop up when each sonogram is processed. This allows you to view each USV that was categorized and under which category it was labeled.
 Process Sonograms will also create three other files in the 'sonograms' folder with the AnimalID and SessionID substituted in the name of the files: AnimalID-SessionID-Notes.csv AnimalID-Session-ID-Syllables.csv and AnimalID-SessionID-Traces.mat
 
