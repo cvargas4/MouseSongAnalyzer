@@ -19,3 +19,5 @@ the Syllables.csv file can be processed with the Acoustic_Analysis_Guided_v1.1 w
   see: Chabout J, Sarkar A, Dunson DB and Jarvis E (2015). Male mice song syntax depends on social contexts and influences  
   female preferences. Front. Behav. Neurosci. 9:76. doi: 10.3389/fnbeh.2015.00076
 The Acoustic Analysis excel sheet is really clunky! Be warned it is slow and will be increasingly so with larger data sets. We're trying to get this written into a script (MATLAB or python), so stay tuned!
+
+Please use with [AcousticAnalysis_MSA.py](https://github.com/cvargas4/MouseSongAnalyzer_AcousticAnalysis) for basic analysis of the USV acoustics.
