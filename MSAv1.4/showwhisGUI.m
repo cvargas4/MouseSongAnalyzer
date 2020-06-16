@@ -112,7 +112,9 @@ else
         syllmat{note_num,13}= finalfreq;
         syllmat{note_num,14}= bandwidth;
         else
-
+        
+        
+            
         syllmat{note_num,1} = name;
         syllmat{note_num,2} = 'Unclassified';
         p.syl{note_num} = 'Unclassified';
