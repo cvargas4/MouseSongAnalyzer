@@ -111,10 +111,10 @@ else
         syllmat{note_num,12}= startfreq;
         syllmat{note_num,13}= finalfreq;
         syllmat{note_num,14}= bandwidth;
+        syllmat{note_num,15}= p.wt(1,note_num);
+        syllmat{note_num,16}= p.wt(2,note_num);
         else
-        
-        
-            
+
         syllmat{note_num,1} = name;
         syllmat{note_num,2} = 'Unclassified';
         p.syl{note_num} = 'Unclassified';
@@ -132,6 +132,8 @@ else
         syllmat{note_num,12}= [];
         syllmat{note_num,13}= [];
         syllmat{note_num,14}= [];
+        syllmat{note_num,15}= [];
+        syllmat{note_num,16}= [];
         end
             
     end
